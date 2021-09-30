@@ -1,0 +1,17 @@
+.menu-toolbar{
+    display: flex;
+    align-items: center;
+}
+
+.sidenav{
+
+    width: 200px;
+}
+
+.sidenav i{
+    padding-right: 10px;
+}
+
+.content{
+    padding: 16px;
+}
